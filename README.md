@@ -45,13 +45,14 @@ O projeto está estruturado da seguinte forma:
 
 2. Instale os Requisitos:
 
-  ```bash
-  pip install -r requirements.txt
+    ```bash
+    pip install -r requirements.txt
 
 ### Execute o Notebook
-1.Inicie o Jupyter
-```bash
-jupyter notebook
+
+1. Inicie o Jupyter
+    ```bash
+      jupyter notebook
 
 ## Resultados
 O modelo treinado alcançou uma acurácia de aproximadamente 80% na previsão da sobrevivência dos passageiros do Titanic.
